@@ -10,10 +10,15 @@ title 2 : on top of "-"
 ##### title 5 : start with "#####"
 ###### title 6 : start with "######"
 
+***
+
 session 1  
 continue session 1 another line by 2 space
 
 or start a new session by empty row
+
+
+***
 
 font example :
 
@@ -31,6 +36,7 @@ string between 3 "*" or 3 "_"
 
 ___tilt & bold font___
 
+***
 
 split line use more than 3 (* , - )
 3*
@@ -41,6 +47,7 @@ eg seperated *
 strikethrough line ,  to add front and behiend (~~). 
 ~~hello world~~
 
+***
 
 underline :  
 <u>hello world<u>
@@ -49,6 +56,8 @@ underline :
 footnote :
 
 hello world [^hello]
+
+***
 
 example of the list :   
 no sequence list use such symbol with one space : * or + or -  
@@ -60,3 +69,13 @@ sequence list use number with "." to present
 1. item
 2. item
 3. item
+
+***
+
+example of the block : use the symbol ">"
+
+> block start with ">"
+> block
+> block
+>> 2nd layer block start with ">>"
+>> - 2nd layer with list item which start with ">>" and "-"
