@@ -49,3 +49,14 @@ underline :
 footnote :
 
 hello world [^hello]
+
+example of the list :   
+no sequence list use such symbol with one space : * or + or -  
+* item
+* item
+* item
+
+sequence list use number with "." to present
+1. item
+2. item
+3. item
