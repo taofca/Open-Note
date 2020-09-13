@@ -77,5 +77,7 @@ example of the block : use the symbol ">"
 > block start with ">"
 > block
 > block
->> 2nd layer block start with ">>"
->> - 2nd layer with list item which start with ">>" and "-"
+>> 2nd layer block start with double ">"
+>> - 2nd layer with list item which start with double ">" and "-"
+>> 1. 2nd layer with list seq item which start with ">> 1."
+>> 2. 2nd layer with list seq item which start with ">> 2."
