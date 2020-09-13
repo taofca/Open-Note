@@ -42,3 +42,10 @@ strikethrough line ,  to add front and behiend (~~).
 ~~hello world~~
 
 
+underline :  
+<u>hello world<u>
+
+
+footnote :
+
+hello world [^hello]
