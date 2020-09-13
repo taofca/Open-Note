@@ -3,12 +3,12 @@ title 1 : on top of "="
 title 2 : on top of "-"
 ----------
 
-# title 1 : start with #
-## title 2 : start with ##
-### title 3 : start with ###
-#### title 4 : start with ####
-##### title 5 : start with #####
-###### title 6 : start with ######
+# title 1 : start with "#"
+## title 2 : start with "##"
+### title 3 : start with "###"
+#### title 4 : start with "####"
+##### title 5 : start with "#####"
+###### title 6 : start with "######"
 
 session 1  
 continue session 1 another line by 2 space
@@ -30,3 +30,15 @@ string between 3 "*" or 3 "_"
 ***tilt & bold font***
 
 ___tilt & bold font___
+
+
+split line use more than 3 (* , - )
+3*
+***
+eg seperated * 
+* * *
+
+strikethrough line ,  to add front and behiend (~~). 
+~~hello world~~
+
+
