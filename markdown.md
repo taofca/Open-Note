@@ -81,3 +81,7 @@ example of the block : use the symbol ">"
 >> - 2nd layer with list item which start with double ">" and "-"
 >> 1. 2nd layer with list seq item which start with ">> 1."
 >> 2. 2nd layer with list seq item which start with ">> 2."
+
+***
+
+this is a link [link](https://github.com) ,  link store in "[]" then follow by  "()"
