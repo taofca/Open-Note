@@ -1,6 +1,6 @@
-title 1 : on top of "="
+This is markdown titile , as title can be on top of series "="
 ==========
-title 2 : on top of "-"
+title 2 with a picture (start with "!" follow by dual "[" and image link in "(": on top of "-" ![markdown](https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg)
 ----------
 
 # title 1 : start with "#"
