@@ -1,7 +1,13 @@
+Introduction : Markdown是一种轻量级标记语言 , Markdown is a lightweight markup language with plain-text-formatting syntax
+======
 This is markdown titile , as title can be on top of series "="
 ==========
-title 2 with a picture (start with "!" follow by dual "[" and image link in "(": on top of "-" ![markdown](https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg)
+title 2  on top of "-" 
 ----------
+
+presnant a picture (start with "!" follow by dual "[" and image link in "(":
+
+![markdown](https://upload.wikimedia.org/wikipedia/commons/4/48/Markdown-mark.svg)
 
 # title 1 : start with "#"
 ## title 2 : start with "##"
